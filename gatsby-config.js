@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-actions-seed',
   siteMetadata: {
     title: `Novela by Narative`,
     name: `Narative`,
